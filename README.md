@@ -21,6 +21,25 @@ Dengan mengambil bagian dalam proyek-proyek berbasis komputasi, baik secara indi
 Dengan demikian, proses menginternalisasi CT melibatkan aplikasi aktif konsep-konsep tersebut dalam berbagai situasi, mulai dari pemecahan masalah sehari-hari hingga pengalaman praktis dalam pemrograman dan kolaborasi. Dengan keterlibatan yang mendalam dalam aktivitas ini, seseorang dapat mengembangkan pemikiran komputasional sebagai suatu kebiasaan berpikir yang mendalam dan efektif.
 
 # Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+**Mesin Turing:** Jenis mesin komputasi yang dikembangkan oleh Alan Turing, yang dapat digunakan untuk mengevaluasi fungsi matematika dan digunakan sebagai dasar konsep komputasi modern.
+
+**Komputer Analog:** Mesin komputasi yang menggunakan sinyal analog untuk merepresentasikan data dan melakukan operasi matematika, umumnya diterapkan dalam konteks pemodelan sistem fisik yang kontinu.
+
+**Komputer Digital:** Mesin komputasi yang menggunakan representasi diskret, terutama menggunakan angka biner, untuk menyimpan dan memanipulasi data. Ini melibatkan penggunaan sirkuit digital dan logika boolean.
+
+**Komputer Quantum:** Mesin komputasi yang menggunakan prinsip-prinsip mekanika kuantum untuk melakukan komputasi. Informasi diwakili sebagai qubit yang dapat berada dalam keadaan superposisi, memungkinkan komputasi paralel yang sangat canggih.
+
+**Komputer Superkomputer:** Mesin komputasi yang memiliki kinerja tinggi dan dapat menangani pemrosesan data yang sangat besar dan kompleks. Biasanya digunakan untuk aplikasi ilmiah dan teknis yang membutuhkan daya komputasi ekstrem.
+
+**Komputer Personal (PC):** Jenis mesin komputasi yang dirancang untuk penggunaan pribadi, biasanya terdiri dari unit pusat pemrosesan (CPU), perangkat penyimpanan, dan perangkat input/output.
+
+**Server Komputer:** Mesin komputasi yang dirancang untuk menyediakan layanan atau sumber daya komputasi kepada jaringan atau pengguna lain, sering kali digunakan untuk hosting situs web, basis data, atau aplikasi.
+
+**Komputer Mainframe:** Mesin komputasi yang dirancang untuk menangani volume pemrosesan data yang sangat besar dan mendukung banyak pengguna secara bersamaan, biasanya digunakan dalam lingkungan bisnis atau perbankan.
+
+**Komputer Tablet:** Jenis mesin komputasi portabel yang umumnya menggunakan layar sentuh untuk interaksi pengguna dan sering digunakan untuk konsumsi media, produktivitas, dan aplikasi hiburan.
+
+**Komputer Embedded:** Mesin komputasi yang tertanam dalam perangkat lain dan diintegrasikan sebagai bagian dari sistem yang lebih besar, seperti kontroler otomotif, perangkat rumah pintar, atau peralatan medis.
 
 # Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
