@@ -339,9 +339,56 @@ Untuk Profesi yang saya minati sendiri adalah Cyber security pada awalnya namun 
 
 # Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
+**Tandem Learning:**
+   - **Deskripsi:** Kemampuan untuk berkomunikasi satu sama lain, memungkinkan berbicara langsung dengan penutur asli Bahasa Inggris yang mempelajari bahasa kita.
+   - **Manfaat:** Kesempatan berlatih berbicara dengan penutur asli, meningkatkan kefasihan dan keterampilan berbicara.
+
+ **Percakapan Satu-lawan-satu:**
+   - **Deskripsi:** Dapat memulai percakapan pribadi, menciptakan lingkungan belajar yang intim dan mendukung.
+   - **Manfaat:** Meningkatkan kepercayaan diri dalam berbicara dan memberikan ruang untuk diskusi lebih mendalam.
+
+**Pemeriksaan Teks dan Koreksi:**
+   - **Deskripsi:** Kemampuan untuk memberikan umpan balik dan koreksi terhadap teks yang ditulis.
+   - **Manfaat:** Perbaikan kesalahan gramatikal dan kosakata, membantu pemahaman struktur kalimat yang benar.
+
+ **Rekaman Suara:**
+   - **Deskripsi:** Pengguna dapat merekam suara mereka sendiri dan mendengarkan rekaman suara pengguna lain.
+   - **Manfaat:** Perbaikan pengucapan dan intonasi, serta pemahaman variasi aksen dari penutur asli.
+
+ **Grup dan Forum:**
+   - **Deskripsi:** Forum kelompok disediakan untuk diskusi dan pertukaran informasi.
+   - **Manfaat:** Pembelajaran dari pengalaman berbagai orang, pertanyaan dapat diajukan, dan partisipasi dalam topik yang menarik.
+
+**Kartu Kata (Flashcards):**
+   - **Deskripsi:** Pembuatan kartu kata untuk menghafal kosakata baru dan penyimpanannya untuk referensi.
+   - **Manfaat:** Memperkuat ingatan kosakata dan pembangunan keterampilan berbicara.
+
+**Terjemahan Langsung:**
+   - **Deskripsi:** Terjemahan langsung memudahkan pemahaman teks yang sulit dipahami.
+   - **Manfaat:** Memastikan bahwa pesan yang diterima dapat dengan mudah dipahami dan diaplikasikan dalam konteks berbicara.
+
+**Pelacakan Kemajuan:**
+   - **Deskripsi:** Statistik dan pelacakan kemajuan diberikan untuk melihat sejauh mana kita telah berkembang.
+   - **Manfaat:** Motivasi tambahan dan pemahaman terhadap area yang perlu diperbaiki.
+
 
 # Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+1. IT Digital Product Owner & UI/UX Head
+   PT Busan Auto Fiance (Jakarta Selatan)
+   Saya menemukannya di Jobs Street yang di update pada selasa tanggal 26/12/2023 pada pukul 10.00 wib
+2. IT & Business Support Supervisor
+   PT ABC Kogen Dairy (Jakarta Raya)
+   Saya menemukannya di Jobs Street yang di update pada Jumat tanggal 22/12/2023
+3. IT System Analysit & Infrastuktur SPV (IT)
+   Daya Group (Jawa Barat)
+   Saya menemukannya di Jobs Street yang di update pada sabtu tanggal 23/12/2023
+4. IT Infrastuktur (Senior)
+   PT LinkIT360 (Jakarta Selatan)
+   Saya menemukannya di Jobs Street yang di update pada rabu tanggal 20/12/2023
+5. Spesialis IT Governance dan quality Manajemen
+   PT Biro Klasifikasi Indonesia (Jakarta Utara)
+   Saya menemukannya di Jobs Street yang di update pada sabtu tanggal 23/12/2023
+   
 
 # Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
