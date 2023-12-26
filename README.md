@@ -14,20 +14,20 @@
 
 Referensi 1
 
-Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+# Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 
-Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
-#
-Referensi 1
-
-Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+# Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 #
 Referensi 1
 
-Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+# Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+
+#
+Referensi 1
+
+# Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 # Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
