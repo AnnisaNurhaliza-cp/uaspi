@@ -4,6 +4,22 @@
 
 # Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+Konsep Computational Thinking (CT), yang mencakup kemampuan untuk mendekomposisi masalah, mengenali pola, melakukan abstraksi, dan merancang algoritma, dapat diinternalisasi melalui berbagai langkah yang mencakup pemecahan masalah sehari-hari, latihan pemecahan masalah, pembelajaran pemrograman, serta melalui kolaborasi dan diskusi.
+
+Pertama, dalam proses internalisasi CT, penting untuk memahami setiap elemen 4C (Decomposition, Pattern Recognition, Abstraction, dan Algorithmic Thinking) secara mendalam. Ini melibatkan kemampuan mendekomposisi masalah kompleks menjadi komponen-komponen yang lebih kecil, mengidentifikasi pola atau tren dalam data, menyederhanakan kompleksitas dengan mengabaikan detail yang tidak penting, dan merancang langkah-langkah logis untuk menyelesaikan masalah.
+
+Menerapkan konsep ini dalam pemecahan masalah sehari-hari merupakan langkah kritis. Sebagai contoh, ketika dihadapkan pada proyek atau tantangan di tempat kerja, pemikiran komputasional dapat diterapkan untuk mendekomposisi proyek menjadi tugas-tugas terpisah, mengidentifikasi pola yang mungkin muncul dalam data proyek, menyederhanakan proses-proses kompleks, dan merancang algoritma atau prosedur langkah-demi-langkah untuk mencapai tujuan proyek.
+
+Selanjutnya, latihan pemecahan masalah secara terencana dapat memperdalam pemahaman CT. Ini melibatkan mencari masalah-masalah kompleks, baik dalam konteks komputasi maupun di luarnya, dan menggunakan pendekatan 4C untuk menyelesaikan masalah tersebut. Proses ini membantu melatih kemampuan pengenalan pola, pemikiran algoritma, dan kemampuan abstraksi.
+
+Pembelajaran pemrograman juga menjadi bagian penting dalam menginternalisasi CT. Melalui pemrograman, seseorang dapat secara aktif menerapkan konsep-konsep CT dalam merancang dan mengimplementasikan solusi komputasional. Pemrograman memungkinkan latihan praktis dalam mendekomposisi masalah, mengenali pola dalam data, melakukan abstraksi, dan merancang algoritma.
+
+Selain itu, kolaborasi dan diskusi dengan orang lain dapat memperkaya pengalaman menginternalisasi CT. Dengan berbagi ide, pemikiran, dan solusi, seseorang dapat memperluas perspektif mereka dan memahami berbagai pendekatan dalam menghadapi masalah.
+
+Dengan mengambil bagian dalam proyek-proyek berbasis komputasi, baik secara individu maupun sebagai bagian dari tim, seseorang dapat merasakan penerapan CT dalam konteks nyata. Proyek-proyek ini dapat melibatkan pengembangan perangkat lunak, analisis data, atau pemecahan masalah komputasional lainnya.
+
+Dengan demikian, proses menginternalisasi CT melibatkan aplikasi aktif konsep-konsep tersebut dalam berbagai situasi, mulai dari pemecahan masalah sehari-hari hingga pengalaman praktis dalam pemrograman dan kolaborasi. Dengan keterlibatan yang mendalam dalam aktivitas ini, seseorang dapat mengembangkan pemikiran komputasional sebagai suatu kebiasaan berpikir yang mendalam dan efektif.
+
 # Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 # Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
