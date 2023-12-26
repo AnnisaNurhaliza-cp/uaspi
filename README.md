@@ -133,7 +133,10 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 # Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+https://huggingface.co/Annisa77
 
+Hugging Face adalah platform dan perusahaan yang terkenal di dunia kecerdasan buatan, khususnya dalam pemrosesan bahasa alami (NLP). Mereka menyediakan berbagai model dan alat terkini untuk membantu orang menggunakan dan mengembangkan teknologi berbasis bahasa.
+kalau yang saya lihat seperti Github, di huggingface juga bisa mengaitkan akun github(opsional)
 
 # Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
