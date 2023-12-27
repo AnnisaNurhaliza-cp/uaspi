@@ -20,6 +20,8 @@ Dengan mengambil bagian dalam proyek-proyek berbasis komputasi, baik secara indi
 
 Dengan demikian, proses menginternalisasi CT melibatkan aplikasi aktif konsep-konsep tersebut dalam berbagai situasi, mulai dari pemecahan masalah sehari-hari hingga pengalaman praktis dalam pemrograman dan kolaborasi. Dengan keterlibatan yang mendalam dalam aktivitas ini, seseorang dapat mengembangkan pemikiran komputasional sebagai suatu kebiasaan berpikir yang mendalam dan efektif.
 
+computasional thingking yang saya lakukan adalah ketika di smk saya membuat configurasi wifi agar bisa di akses di kelas saya
+
 # Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 **Mesin Turing:** Jenis mesin komputasi yang dikembangkan oleh Alan Turing, yang dapat digunakan untuk mengevaluasi fungsi matematika dan digunakan sebagai dasar konsep komputasi modern.
 
