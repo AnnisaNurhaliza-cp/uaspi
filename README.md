@@ -193,7 +193,7 @@ Referensi 1
 ![Cuplikan layar 2023-12-29 201014](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/4b8e771c-2fb8-4e83-bd78-a373b1d63571)
 ![Cuplikan layar 2023-12-29 201046](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/211d0765-bb52-40be-813a-2aef55612cc6)
 ![Cuplikan layar 2023-12-29 201237](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/dec2d395-eb7f-48ab-ab42-8f7ab3a8e284)
-
+Scratch adalah bahasa pemrograman berbasis visual yang interaktif dan fun. Scratch  bisa membuat animasi, permainan, dan kreasi menarik yang lain. Scratch memudahkan programmer dalam membuat program tanpa perlu khawatir dengan penulisan sintaksis karena tidak perlu menulis kode. Banyak karya karya yang bisa dinikmati di scratch, di sini juga bisa mengupload karya kita.
 
 
 # Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
@@ -540,6 +540,13 @@ Untuk Profesi yang saya minati sendiri adalah Cyber security pada awalnya namun 
 
 
 # Eksplorasi Top Github Project yang Diminati ⭐⭐
+Movie web, sangat menarik dikarnakan bisa mengankses film di website yang dibuatnya.
+![Cuplikan layar 2023-12-29 201629](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/21b1c603-2d96-4788-8131-760fba436ebb)
+Lalu ada spotube dimana ia membuat web/apk pendengar musik menggunakan bahasa dart
+![Cuplikan layar 2023-12-29 201711](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/9ca7d7c7-c5c4-45ca-9c7d-73d4704c8ee1)
+platfome chatgptnext yang dibuat oleh pemograman python
+![Cuplikan layar 2023-12-29 202051](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/418ee4de-ccb9-4d72-aa96-b5bc247b9b7d)
+
 
 
 # Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
