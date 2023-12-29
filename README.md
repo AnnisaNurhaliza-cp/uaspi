@@ -2,6 +2,7 @@
 
 # Hello Informatics !
 
+
 # Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 Konsep Computational Thinking (CT), yang mencakup kemampuan untuk mendekomposisi masalah, mengenali pola, melakukan abstraksi, dan merancang algoritma, dapat diinternalisasi melalui berbagai langkah yang mencakup pemecahan masalah sehari-hari, latihan pemecahan masalah, pembelajaran pemrograman, serta melalui kolaborasi dan diskusi.
@@ -175,7 +176,9 @@ color bf
 
 30. shut down, sleep, atau log off komputer dari Command Prompt, dapat menggunakan perintah CMD shutdown.
 
-    Shut down 
+    Shut down
+
+![Cuplikan layar 2023-12-29 190511](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/d3c1034e-f96b-4d74-993d-c8a9ec8aeb64)
 
 # Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
@@ -265,11 +268,15 @@ https://huggingface.co/Annisa77
 
 Hugging Face adalah platform dan perusahaan yang terkenal di dunia kecerdasan buatan, khususnya dalam pemrosesan bahasa alami (NLP). Mereka menyediakan berbagai model dan alat terkini untuk membantu orang menggunakan dan mengembangkan teknologi berbasis bahasa.
 kalau yang saya lihat seperti Github, di huggingface juga bisa mengaitkan akun github(opsional)
+![Cuplikan layar 2023-12-29 200046](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/3ca8b769-a19d-4f13-b5b8-cf2f29985014)
 
 # Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan ilmuwan data lainnya, mempelajari informasi baru dan trik pengkodean, dan melihat contoh penerapan ilmu data.
 
 https://www.kaggle.com/code/annisanurhaliza/notebook372f201c79
+![Cuplikan layar 2023-12-29 192719](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/eed8783e-6b76-4f62-a5d8-b411bf1f49be)
+
+![Cuplikan layar 2023-12-29 192754](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/b4a49d3b-34d1-4c88-8e24-7520b7ca6a3a)
 
 
 # Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
