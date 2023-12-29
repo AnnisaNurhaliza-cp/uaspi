@@ -49,7 +49,80 @@ computasional thingking yang saya lakukan adalah ketika di smk saya membuat conf
 
 # Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi 1
+Command Prompt atau CMD adalah aplikasi command line interpreter (CLI) yang ada di sistem operasi Windows. 
+Tekan tombol Windows (gambar jendela) + R pada keyboard
+Ketik CMD, lalu tekan Enter
+
+kode kode yang ada di cmd yaitu
+1. Append yang berfungsi sebagai membuka dan mengedit file bernama myfile.txt
+   c:\docs;c:\letters edit myfile.txt
+2. Assoc yang berfungsi untuk memeriksa ekstensi file txt
+   assoc .txt
+3. attrib berfungsi untuk menghapus file txt
+   attrib -R example.txt
+4. bcdedit berfungsi untuk mengelola penyimpanan data boot configuration, menyimpan parameter konfigurasi tersebut, dan mengatur booting sistem operasi.
+   bcdedit /command <argument>
+5. break berfungsi untuk menentykan pengaturan
+   break.off
+6. Cals berpfungsi untuk menentukan akses file yang dimiliki
+   cacls [file name] [sub-command]
+7. call digunakan untuk menjalankan sebuah file batch di dalam sesamanya
+   call second.bat
+8. change berfungsi untuk mengubah pengaturan remote desktop (RD) session host server untuk status logon, COM port mapping, dan mode instalasi.
+   change user /install
+9. chdir berfungsi untuk dapat kembali ke direktori yang dibuka sebelumnya
+   chdir..
+10. clip berfungsi untuk menyalin output dari sebuah CLI ke clipboard
+    clip readme.txt
+11. cmdkey digunakan untuk membuat, menghapus, atau melihat username dan password yang digunakan untuk login ke komputer
+    cmdkey /list
+12. color <b> menentukan warna latar belakang, sedangkan <f> menentukan warna teks. Untuk menentukan warnanya, dapat menggunakan angka 0 hingga 9. tetapi tidak dapat memilih warna yang sama.
+
+0 hitam
+1 biru
+2 hijau
+3 aqua
+4 merah
+5 ungu
+6 kuning
+7 putih
+8 abu-abu
+9 biru muda
+
+color <b><f>
+
+13. comp digunakan untuk membandingkan dua file. Dipakai ketika ingin memeriksa kode CMD dari kedua file.
+    comp file1.txt file2.txt /n=10 /a
+14. compact digunakan untuk mengkompres file
+    compact file.txt /c
+15. Copy digunakan untuk menyalin sebuah file ke lokasi yang berbeda.
+    copy myfile.txt d:\
+16. date digunakan untuk melihat tanggal atau menggantinya.
+    date
+17. del digunakan untuk menghapus file dengan perintah del.
+    del myfile.txt
+18. deltree berfungsi untuk menghapus file secara permanen.
+    deltree d:\pictures
+20. dir berguna untuk melihat daftar file dan sub-direktori yang ada di dalam sebuah direktori.
+    dir *.txt *.doc
+21. edit berfungsi untuk membuka file bernama myfile.txt. Jika file tersebut tidak ada, otomatis tool tersebut akan membuat file baru dengan nama yang ditentukan.
+    edit c:\myfile.txt
+22. exit digunakan untuk keluar dari Command Prompt atau menutup proses batch script yang sedang berjalan.
+    exit
+23. ipconfig digunakan untuk menampilkan informasi tentang pengaturan jaringan yang ditentukan untuk komputer atau laptop.
+    ipconfig
+24. move digunakan untuk memindahkan satu file atau lebih ke direktori lain.
+    move <file name> <destination>
+25. pause digunakan untuk menghentikan file batch yang sedang berjalan. Jika dijalankan, pesan “Press any key to continue” akan muncul di layar.
+    pause
+26. print digunakan untuk mencetak file teks dari Command Prompt.
+    print <filename> <device>
+27. rename digunakan untuk mengubah nama file dan direktori.
+    rename d:/pictures/computer.jpg text.jpg
+28. rmdir digunakan untuk menghapus direktori yang kosong.
+    rmdir c:\test
+29. shut down, sleep, atau log off komputer dari Command Prompt, dapat menggunakan perintah CMD shutdown.
+    Shut down 
 
 # Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
