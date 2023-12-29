@@ -76,7 +76,7 @@ kode kode yang ada di cmd yaitu
     clip readme.txt
 11. cmdkey digunakan untuk membuat, menghapus, atau melihat username dan password yang digunakan untuk login ke komputer
     cmdkey /list
-12. color <b> menentukan warna latar belakang, sedangkan <f> menentukan warna teks. Untuk menentukan warnanya, dapat menggunakan angka 0 hingga 9. tetapi tidak dapat memilih warna yang sama.
+12. color b> menentukan warna latar belakang, sedangkan f> menentukan warna teks. Untuk menentukan warnanya, dapat menggunakan angka 0 hingga 9. tetapi tidak dapat memilih warna yang sama.
 
 0 hitam
 1 biru
@@ -89,7 +89,7 @@ kode kode yang ada di cmd yaitu
 8 abu-abu
 9 biru muda
 
-color <b><f>
+color bf
 
 13. comp digunakan untuk membandingkan dua file. Dipakai ketika ingin memeriksa kode CMD dari kedua file.
     comp file1.txt file2.txt /n=10 /a
