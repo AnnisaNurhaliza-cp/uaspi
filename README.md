@@ -189,9 +189,12 @@ color bf
 Referensi 1
 
 # Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+![Cuplikan layar 2023-12-29 200944](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/423968fe-8073-4183-ad64-e8d72d3839cf)
+![Cuplikan layar 2023-12-29 201014](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/4b8e771c-2fb8-4e83-bd78-a373b1d63571)
+![Cuplikan layar 2023-12-29 201046](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/211d0765-bb52-40be-813a-2aef55612cc6)
+![Cuplikan layar 2023-12-29 201237](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/dec2d395-eb7f-48ab-ab42-8f7ab3a8e284)
 
-#
-Referensi 1
+
 
 # Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
