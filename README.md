@@ -395,6 +395,9 @@ https://www.kaggle.com/code/annisanurhaliza/notebook372f201c79
 
 
 # Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+![Cuplikan layar 2024-01-01 215719](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/7b37699b-e9da-4b97-a2b4-993822b543b8)
+![Cuplikan layar 2024-01-01 215731](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/9b8b0e55-980f-4af6-8882-00c5270db99a)
+![Cuplikan layar 2024-01-01 215927](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/7e6f839f-09c9-49da-b8fd-2efd650018b8)
 
 
 # Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
