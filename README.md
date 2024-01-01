@@ -312,6 +312,13 @@ Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode.
 6. **Menggunakan Browser:**
    - Dengan membuka browser web dan memasukkan alamat domain, fungsi pengembang (Developer Tools) dapat digunakan untuk melihat informasi terkait server, termasuk alamat IP dan respons header.
 # Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+![Cuplikan layar 2024-01-01 222028](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/c1c48e9c-035a-42e8-8547-0e506a4a4557)
+![Cuplikan layar 2024-01-01 222041](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/0cbf5104-c22f-4839-822c-7b33ff563222)
+![Cuplikan layar 2024-01-01 222054](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/b309501e-a60e-449d-8898-774ca5fa3d3c)
+![Cuplikan layar 2024-01-01 222119](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/25098246-e331-40c4-805f-63dc0c6d8350)
+![Cuplikan layar 2024-01-01 222148](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/dc6bdb0d-be61-45ee-93ae-411ce517d793)
+![Cuplikan layar 2024-01-01 222134](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/61a5a39b-866b-4e9a-bcd4-9d24169aadbf)
+
 
 # Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
