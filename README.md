@@ -371,29 +371,13 @@ Dalam mengadaptasi model serverless, Google Cloud Functions memungkinkan pengemb
 
 # Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 1. akses dan tampilkan gambar (html)
-   
-   <img src="gambar.jpg" alt="Deskripsi Gambar" loading="lazy">
-   
+   ![Cuplikan layar 2024-01-01 234930](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/eac83daa-9058-4bcc-961a-948616066df5)
+
 3. Pemutaran audio (html)
-   
-   <audio controls>
-   
-  <source src="audio.mp3" type="audio/mp3">
-  
-  Your browser does not support the audio tag.
-  
-</audio>
+ ![Cuplikan layar 2024-01-01 234939](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/ea963ae7-2d1d-431c-8d25-6d728ed9519d)
 
 3. Pemutaran Video (html)
-
-   <video controls width="400">
-   
-  <source src="video.mp4" type="video/mp4">
-  
-  Your browser does not support the video tag.
-  
-</video>
-
+![Cuplikan layar 2024-01-01 234950](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/39245fe4-2132-4698-8708-a54814b5844e)
 
 
 # Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
