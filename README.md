@@ -45,6 +45,16 @@ computasional thingking yang saya lakukan adalah ketika di smk saya membuat conf
 **Komputer Embedded:** Mesin komputasi yang tertanam dalam perangkat lain dan diintegrasikan sebagai bagian dari sistem yang lebih besar, seperti kontroler otomotif, perangkat rumah pintar, atau peralatan medis.
 
 # Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+![Cuplikan layar 2024-01-01 192358](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/20fb60eb-288a-4b7d-9ab9-dbd91994e9e2)
+![Cuplikan layar 2024-01-01 192450](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/70091a7e-f924-4f53-92c8-c25efc7a8171)
+![Cuplikan layar 2024-01-01 192806](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/a57025f8-5d6e-4667-bad1-49f6427e2ff0)
+Google Colab atau Google Colaboratory, adalah sebuah executable document yang dapat digunakan untuk menyimpan, menulis, serta membagikan program yang telah ditulis melalui Google Drive.
+Penjelasan itu disadur dari Tutorials Point,
+
+Software ini pada dasarnya serupa dengan Jupyter Notebook gratis berbentuk cloud yang dijalankan menggunakan browser, seperti Mozilla Firefox dan Google Chrome.
+Ia memungkinkan penggunanya untuk menjalankan kode Python tanpa perlu melakukan proses instalasi dan setup lainnya. Justru, semua keperluan setting dan adjustment akan diserahkan ke cloud. 
+
+untuk menggunakan nya google colab yang pertama yaitu memmbuat folder lalu membuat notebook baru atau colabority selanjutnya bisa digunakan. 
 
 # Mencoba Console Sistem Operasi
 
@@ -181,12 +191,57 @@ color bf
 ![Cuplikan layar 2023-12-29 190511](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/d3c1034e-f96b-4d74-993d-c8a9ec8aeb64)
 
 # Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+![Cuplikan layar 2024-01-01 194420](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/919bfde8-aa71-4755-8c1a-8bcd0ed4bc51)
+perintah dasar Linux:
 
+1. **Navigasi dan Informasi:**
+   - `ls`: Menampilkan isi direktori.
+   - `pwd`: Menampilkan direktori kerja saat ini.
+   - `cd`: Pindah ke direktori lain.
+   - `mkdir`: Membuat direktori baru.
+   - `cp`: Menyalin file atau direktori.
+   - `mv`: Memindahkan atau mengganti nama file/direktori.
+   - `rm`: Menghapus file atau direktori.
+
+2. **Manajemen File:**
+   - `touch`: Membuat file kosong.
+   - `cat`: Menampilkan isi file.
+   - `nano` atau `vim`: Mengedit file menggunakan editor teks.
+   - `grep`: Mencari teks dalam file.
+   - `chmod`: Mengubah izin file.
+
+3. **Manajemen Proses:**
+   - `ps`: Menampilkan proses yang sedang berjalan.
+   - `kill`: Menghentikan proses.
+   - `top` atau `htop`: Menampilkan daftar proses yang berjalan secara real-time.
+
+4. **Jaringan:**
+   - `ping`: Memeriksa koneksi jaringan.
+   - `ifconfig` atau `ip`: Menampilkan informasi antarmuka jaringan.
+   - `netstat`: Menampilkan informasi koneksi jaringan.
+
+5. **Paket dan Perangkat Lunak:**
+   - `apt-get` atau `yum`: Mengelola paket pada distribusi berbasis Debian atau Red Hat.
+   - `dpkg`: Manajemen paket pada distribusi Debian.
+   - `rpm`: Manajemen paket pada distribusi Red Hat.
+
+6. **Informasi Sistem:**
+   - `uname`: Menampilkan informasi kernel sistem.
+   - `lsb_release`: Menampilkan informasi distribusi Linux.
+
+7. **Manajemen Pengguna dan Grup:**
+   - `useradd`: Menambahkan pengguna baru.
+   - `passwd`: Mengubah kata sandi pengguna.
+   - `usermod`: Mengubah atribut pengguna.
+   - `groupadd`: Menambahkan grup baru.
+   - `adduser`: Interaktif menambahkan pengguna baru.
+
+8. **Lainnya:**
+   - `history`: Menampilkan riwayat perintah yang telah dijalankan.
+   - `man`: Menampilkan manual untuk perintah tertentu.
 
 # Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-#
-Referensi 1
 
 # Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 ![Cuplikan layar 2023-12-29 200944](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/423968fe-8073-4183-ad64-e8d72d3839cf)
@@ -197,7 +252,8 @@ Scratch adalah bahasa pemrograman berbasis visual yang interaktif dan fun. Scrat
 
 
 # Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-
+![Cuplikan layar 2024-01-01 195240](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/0b7b37ac-2797-4b1f-85c1-8a3598c9dcdc)
+Dalam bahasa pemrograman Java, Bubble Sort dapat digunakan dan memberikan beberapa manfaat dalam konteks tertentu. Kesederhanaan implementasinya memungkinkan pemahaman yang mudah oleh pengembang pemula atau dalam situasi pembelajaran. Implementasinya melibatkan beberapa langkah sederhana, seperti pertukaran elemen, sehingga mudah diimplementasikan oleh pengembang pemula. Dengan menggunakan Bubble Sort, pemahaman tentang konsep dasar pengurutan seperti perbandingan dan pertukaran elemen dapat diperoleh dengan lebih baik. Dalam situasi dengan jumlah elemen yang sangat kecil, Bubble Sort dapat dianggap efektif dan berkinerja lebih baik pada data yang hampir terurut. Meskipun tidak efisien secara umum, penggunaan Bubble Sort dapat membantu dalam memahami konsep dasar algoritma pengurutan. Bubble Sort termasuk dalam kategori pengurutan stabil, di mana elemen dengan nilai yang sama tetap dalam urutan relatif satu sama lain setelah diurutkan.
 # Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 # Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
@@ -210,6 +266,13 @@ Scratch adalah bahasa pemrograman berbasis visual yang interaktif dan fun. Scrat
 
 # Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
+Hal pertama yang dilakukan adalah membuka web browser pilihan. Kemudian, alamat URL atau situs web yang ingin diakses dimasukkan ke dalam bilah alamat browser. Setelah itu, tombol "Enter" pada keyboard ditekan, memulai pengunduhan berbagai file termasuk HTML, CSS, dan JavaScript yang membentuk halaman web.
+
+Selama proses pengunduhan, file HTML, sebagai bahasa markup utama, digunakan untuk merinci struktur dasar halaman web. Browser kemudian mulai merender atau menampilkan halaman web dengan memahami dan menafsirkan instruksi HTML, termasuk struktur kontennya.
+
+Pengguna dapat berinteraksi dengan halaman web, seperti mengklik tautan atau mengisi formulir, menggunakan elemen-elemen HTML yang telah diimplementasikan. Fungsi "View Page Source" pada browser memungkinkan untuk memeriksa kode sumber HTML yang membentuk struktur halaman.
+
+Selain itu, alat pengembang browser dapat digunakan untuk menginspeksi dan, jika perlu, memodifikasi elemen halaman web secara real-time. Melalui langkah-langkah ini, proses penggunaan web browser untuk mengakses halaman website HTML dapat dipahami dengan lebih baik.
 # Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 # Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
