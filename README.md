@@ -255,6 +255,9 @@ Scratch adalah bahasa pemrograman berbasis visual yang interaktif dan fun. Scrat
 ![Cuplikan layar 2024-01-01 195240](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/0b7b37ac-2797-4b1f-85c1-8a3598c9dcdc)
 Dalam bahasa pemrograman Java, Bubble Sort dapat digunakan dan memberikan beberapa manfaat dalam konteks tertentu. Kesederhanaan implementasinya memungkinkan pemahaman yang mudah oleh pengembang pemula atau dalam situasi pembelajaran. Implementasinya melibatkan beberapa langkah sederhana, seperti pertukaran elemen, sehingga mudah diimplementasikan oleh pengembang pemula. Dengan menggunakan Bubble Sort, pemahaman tentang konsep dasar pengurutan seperti perbandingan dan pertukaran elemen dapat diperoleh dengan lebih baik. Dalam situasi dengan jumlah elemen yang sangat kecil, Bubble Sort dapat dianggap efektif dan berkinerja lebih baik pada data yang hampir terurut. Meskipun tidak efisien secara umum, penggunaan Bubble Sort dapat membantu dalam memahami konsep dasar algoritma pengurutan. Bubble Sort termasuk dalam kategori pengurutan stabil, di mana elemen dengan nilai yang sama tetap dalam urutan relatif satu sama lain setelah diurutkan.
 # Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+![Cuplikan layar 2024-01-02 002311](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/0502b85b-86b2-42b0-b985-ec40720d8c91)
+![Cuplikan layar 2024-01-02 002422](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/b61e8173-0de6-402c-89af-8a01df54b781)
+
 
 # Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 "HackerRank digunakan untuk menguji dan melatih keterampilan pemrograman melalui serangkaian tugas dan tantangan."
