@@ -400,6 +400,9 @@ https://www.kaggle.com/code/annisanurhaliza/notebook372f201c79
 
 
 # Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+MQTT (Message Queuing Telemetry Transport) adalah protokol komunikasi ringan yang dirancang untuk keperluan konektivitas yang rendah dan daya tahan untuk perangkat IoT (Internet of Things)
+![Gambar WhatsApp 2024-01-01 pukul 22 56 50_7827ff92](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/c1dc8fa5-2ccf-441e-bede-24df7802b4db)
+
 
 
 # Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
