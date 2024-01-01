@@ -337,6 +337,19 @@ Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode.
 
 
 # Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+**Penggunaan Developer Tools di Web Browser (Google Chrome)**
+
+Dalam pengembangan web, Developer Tools merupakan alat yang sangat bermanfaat yang biasanya digunakan untuk menganalisis, menginspeksi, dan mem-debug kode serta elemen halaman web. Penggunaannya secara aktif diterapkan oleh pengembang web untuk memahami dan memperbaiki masalah pada tampilan dan kinerja situs.
+
+Dengan Developer Tools, elemen-elemen pada halaman web dapat dianalisis secara mendalam. Berbagai tab seperti "Elements," "Console," dan "Network" memungkinkan elemen HTML, CSS, dan JavaScript dapat diinspeksi dan diedit langsung. Informasi diwakili secara visual, dan perubahan yang diterapkan pada kode dapat dilihat secara langsung pada halaman web tanpa perlu merefresh.
+
+Dalam proses memperbaiki masalah, Console menyediakan lingkungan untuk mengevaluasi dan menjalankan perintah JavaScript, juga sebagai tempat untuk melihat output dari fungsi atau pesan kesalahan yang dihasilkan oleh kode. Ini menjadi alat yang sangat berguna dalam mengidentifikasi dan memperbaiki bug atau kesalahan logika pada sisi klien.
+
+Network tab membantu memonitor permintaan dan tanggapan HTTP yang dihasilkan saat halaman web dimuat. Informasi ini sangat berguna untuk mengidentifikasi sumber daya yang memerlukan waktu pemuatan lebih lama, dan memungkinkan pengembang untuk mengoptimalkan kinerja situs.
+
+Pada level yang lebih lanjut, Performance dan Memory tabs memungkinkan analisis yang mendalam terkait waktu pemuatan halaman dan penggunaan memori. Ini membantu pengembang untuk mengoptimalkan kinerja aplikasi web dan meminimalkan dampaknya terhadap pengguna.
+
+Dengan penggunaan Developer Tools, pengembang web dapat dengan efisien mengelola dan meningkatkan situs web mereka. Dari inspeksi elemen hingga analisis kinerja, alat ini memberikan pandangan komprehensif yang mendukung proses pengembangan dan memastikan bahwa situs web dapat memberikan pengalaman terbaik kepada pengguna.
 
 
 # Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
