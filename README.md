@@ -334,6 +334,7 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
 
 # Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+![Cuplikan layar 2024-01-01 212823](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/dd13ebb5-63d2-4cb6-ad37-ea4534807e37)
 
 
 # Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
@@ -631,6 +632,8 @@ Untuk Profesi yang saya minati sendiri adalah Cyber security pada awalnya namun 
    
 
 # Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![Cuplikan layar 2024-01-01 211330](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/ed9918c8-d526-4e0c-bafc-236b0a5ba2de)
+![Cuplikan layar 2024-01-01 211342](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/b5af1679-959a-4e93-93d7-246300e6dfbd)
 
 
 # Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
