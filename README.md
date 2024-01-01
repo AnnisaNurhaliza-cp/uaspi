@@ -257,6 +257,12 @@ Dalam bahasa pemrograman Java, Bubble Sort dapat digunakan dan memberikan bebera
 # Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 # Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+"HackerRank digunakan untuk menguji dan melatih keterampilan pemrograman melalui serangkaian tugas dan tantangan."
+![Cuplikan layar 2024-01-01 200452](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/ac1814c2-2500-4a1f-8708-ab932b486123)
+![Cuplikan layar 2024-01-01 200601](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/b0959f1a-143d-419c-af3a-7d76fbf7e1b8)
+![Cuplikan layar 2024-01-01 200646](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/2e769517-d34f-48a9-bc64-dbf765a052b2)
+![Cuplikan layar 2024-01-01 200725](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/f3cf7089-5779-44a1-a150-01ae5640a7a8)
+
 
 # Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -265,6 +271,8 @@ Dalam bahasa pemrograman Java, Bubble Sort dapat digunakan dan memberikan bebera
 # Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 # Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+![Cuplikan layar 2024-01-01 200222](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/a216cf1d-1c6c-410d-99f1-fdd9b3d0f789)
+![Cuplikan layar 2024-01-01 200235](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/459a9416-225f-4bab-9706-9a373ffcc174)
 
 Hal pertama yang dilakukan adalah membuka web browser pilihan. Kemudian, alamat URL atau situs web yang ingin diakses dimasukkan ke dalam bilah alamat browser. Setelah itu, tombol "Enter" pada keyboard ditekan, memulai pengunduhan berbagai file termasuk HTML, CSS, dan JavaScript yang membentuk halaman web.
 
@@ -274,9 +282,35 @@ Pengguna dapat berinteraksi dengan halaman web, seperti mengklik tautan atau men
 
 Selain itu, alat pengembang browser dapat digunakan untuk menginspeksi dan, jika perlu, memodifikasi elemen halaman web secara real-time. Melalui langkah-langkah ini, proses penggunaan web browser untuk mengakses halaman website HTML dapat dipahami dengan lebih baik.
 # Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+Komponen dari contoh Uniform Resource Locator (URL) dijelaskan melalui serangkaian unsur yang terdiri dari protokol, nama domain, dan jalur, yang digunakan untuk mengidentifikasi dan merujuk lokasi suatu sumber daya di dalam jaringan. 
+Protokol (misalnya, "http" atau "https").
+Nama domain (contohnya, "www.example.com").
+Jalur (path) yang menunjukkan lokasi spesifik dari sumber daya di dalam domain (misalnya, "/halaman/contoh").
+![Cuplikan layar 2024-01-01 201331](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/0b1f00dd-1b2d-4cf6-9a0b-aec3dd8d92eb)
 
 # Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
+Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode. Beberapa cara umum untuk melakukan pelacakan informasi server melibatkan penggunaan perintah di terminal atau alat online. 
+![Cuplikan layar 2024-01-01 201907](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/39393564-7cae-4d93-bfc8-fb877055f4f4)
+
+1. **Menggunakan Command Line:**
+   - Dengan menggunakan `nslookup` (Windows atau Linux), informasi tentang server DNS yang terkait dengan domain dapat diidentifikasi.
+   - Dengan menggunakan `dig` (Linux), informasi DNS yang lebih rinci, termasuk informasi tentang server otoritatif, dapat diperoleh.
+
+2. **Menggunakan WHOIS:**
+   - Melalui layanan WHOIS, informasi tentang pemilik domain dapat ditemukan. Perintah WHOIS di terminal atau antarmuka web yang disediakan oleh beberapa situs web dapat digunakan untuk mendapatkan informasi ini.
+
+3. **Menggunakan Alat Online:**
+   - Situs web dan alat online menyediakan antarmuka untuk melacak informasi server dari suatu domain, seperti WHOIS Lookup atau DomainTools. Informasi yang relevan dapat ditemukan dengan memasukkan nama domain.
+
+4. **Menggunakan `ping` (Windows atau Linux):**
+   - Dengan menggunakan perintah `ping`, alamat IP server yang merespons dapat ditemukan.
+
+5. **Menggunakan `traceroute` (Linux) atau `tracert` (Windows):**
+   - Dengan menjalankan perintah `traceroute` atau `tracert`, dapat dilihat rute paket dari komputer ke server domain, termasuk alamat IP dari setiap hop.
+
+6. **Menggunakan Browser:**
+   - Dengan membuka browser web dan memasukkan alamat domain, fungsi pengembang (Developer Tools) dapat digunakan untuk melihat informasi terkait server, termasuk alamat IP dan respons header.
 # Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 # Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
