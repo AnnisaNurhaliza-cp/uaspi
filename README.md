@@ -662,6 +662,8 @@ platfome chatgptnext yang dibuat oleh pemograman python
 
 
 # Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![Cuplikan layar 2024-01-01 215026](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/c4f037ea-bc85-4ba9-b3e9-aa5e6cac1ca2)
+![Cuplikan layar 2024-01-01 215148](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/3ae5693d-7fa0-4387-a791-6e99dde890d2)
 
 
 # Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
