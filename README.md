@@ -340,9 +340,17 @@ Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode.
 
 
 # Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+![Cuplikan layar 2024-01-01 224109](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/de18f3f4-5f2b-4529-af1b-3681018e0aa9)
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+Google Cloud Platform (GCP) adalah rangkaian layanan cloud yang disediakan oleh Google untuk membantu organisasi dan pengembang dalam membangun, mengelola, dan mengoptimalkan aplikasi mereka di lingkungan cloud. Penyediaan layanan komputasi, penyimpanan data, jaringan, kecerdasan buatan, dan banyak lagi telah diberikan oleh GCP untuk memenuhi berbagai kebutuhan pengguna. Dengan berbagai opsi yang disediakan, mesin virtual dapat disesuaikan di Google Compute Engine (GCE), sementara Google App Engine (GAE) memberikan kemudahan bagi pengembang dalam membuat dan mengelola aplikasi tanpa memikirkan infrastruktur di belakangnya.
+
+Infrastruktur manajemen dan orkestrasi Kubernetes ditangani oleh Google Kubernetes Engine (GKE), sedangkan penyimpanan data tidak terstruktur dapat dilakukan dengan efisien melalui Google Cloud Storage. Dalam ranah database, Google Cloud SQL mendukung MySQL dan PostgreSQL, sementara Google Cloud Bigtable menawarkan layanan NoSQL yang dioptimalkan untuk kinerja tinggi dan skala besar. Layanan pub/sub Google Cloud Pub/Sub memfasilitasi transmisi data antara aplikasi dan layanan dengan mendukung pemrosesan data secara real-time dan skala besar.
+
+Pentingnya kecerdasan buatan juga diakomodir oleh GCP melalui layanan seperti Google Cloud Vision AI dan Google Cloud Natural Language Processing, yang memungkinkan analisis gambar dan pemahaman bahasa alami. Dalam konteks kecerdasan buatan, Google Cloud Machine Learning Engine memberikan platform untuk pengembangan, pelatihan, dan implementasi model dengan menggunakan TensorFlow.
+
+Manajemen akses dan identitas pengguna serta sumber daya diatasi oleh Google Cloud Identity and Access Management (IAM). Selain itu, Google Cloud Spanner menyediakan layanan database global dan konsisten secara konsisten dengan dukungan untuk transaksi, cocok untuk aplikasi yang memerlukan database distribusi global dengan jaminan konsistensi.
+
+Dalam mengadaptasi model serverless, Google Cloud Functions memungkinkan pengembang untuk menjalankan fungsi tanpa harus memikirkan infrastruktur yang mendasarinya. Keseluruhan, GCP terus mengembangkan ekosistemnya untuk memberikan solusi yang kaya dan relevan untuk berbagai kebutuhan bisnis dan teknologi.
 
 # Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 ![Cuplikan layar 2024-01-01 212823](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/dd13ebb5-63d2-4cb6-ad37-ea4534807e37)
