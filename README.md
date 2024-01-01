@@ -370,6 +370,30 @@ Dalam mengadaptasi model serverless, Google Cloud Functions memungkinkan pengemb
 
 
 # Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+1. akses dan tampilkan gambar (html)
+   
+   <img src="gambar.jpg" alt="Deskripsi Gambar" loading="lazy">
+   
+3. Pemutaran audio (html)
+   
+   <audio controls>
+   
+  <source src="audio.mp3" type="audio/mp3">
+  
+  Your browser does not support the audio tag.
+  
+</audio>
+
+3. Pemutaran Video (html)
+
+   <video controls width="400">
+   
+  <source src="video.mp4" type="video/mp4">
+  
+  Your browser does not support the video tag.
+  
+</video>
+
 
 
 # Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
