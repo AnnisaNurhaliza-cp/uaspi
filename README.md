@@ -659,6 +659,7 @@ platfome chatgptnext yang dibuat oleh pemograman python
 
 
 # Membangun Profil Github Page ⭐⭐⭐⭐⭐
+![Cuplikan layar 2024-01-01 215411](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/96aab8fa-0880-4118-a7f3-a65da420f721)
 
 
 # Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
