@@ -371,16 +371,22 @@ Dalam mengadaptasi model serverless, Google Cloud Functions memungkinkan pengemb
 
 # Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 1. akses dan tampilkan gambar (html)
+   
    ![Cuplikan layar 2024-01-01 234930](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/eac83daa-9058-4bcc-961a-948616066df5)
 
-3. Pemutaran audio (html)
+2. Pemutaran audio (html)
+   
  ![Cuplikan layar 2024-01-01 234939](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/ea963ae7-2d1d-431c-8d25-6d728ed9519d)
 
 3. Pemutaran Video (html)
+   
 ![Cuplikan layar 2024-01-01 234950](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/39245fe4-2132-4698-8708-a54814b5844e)
 
 
 # Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+![Cuplikan layar 2024-01-02 001513](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/d08a1be8-8f96-477a-9c10-18aaeed77939)
+![Cuplikan layar 2024-01-02 001559](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/9ddf76d8-37c6-419b-9a90-84f97a4a8649)
 
 
 # Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
