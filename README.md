@@ -634,6 +634,9 @@ Untuk Profesi yang saya minati sendiri adalah Cyber security pada awalnya namun 
 
 
 # Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+![Cuplikan layar 2024-01-01 204113](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/439811cf-8730-4088-8603-97d1b8c66f5a)
+![Cuplikan layar 2024-01-01 204315](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/46f5aa53-3387-445a-a9a2-d7b0da5283fb)
+![Cuplikan layar 2024-01-01 204336](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/b8a786d0-ae64-4924-b3ec-3501349c009e)
 
 
 # Eksplorasi Top Github Project yang Diminati ⭐⭐
@@ -647,6 +650,9 @@ platfome chatgptnext yang dibuat oleh pemograman python
 
 
 # Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+![Cuplikan layar 2024-01-01 203845](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/6b9c322f-1919-4665-be4b-b55f45ce2341)
+![Cuplikan layar 2024-01-01 203945](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/1dfb2fd1-3892-4ad7-a84c-f18138da3454)
+
 
 
 # Membangun Profil Github Page ⭐⭐⭐⭐⭐
@@ -656,3 +662,6 @@ platfome chatgptnext yang dibuat oleh pemograman python
 
 
 # Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+Buku Pengantar Teknologi Informatika Dan Komunikasi Data yang ditulis oleh  Bagaskoro, S.Kom., M.M yang di terbitkan tahun 2019. Buku ini mengulas tentang konsep-konsep dalam teknologi informasi dan komunikasi. Ada juga tentang perangkat kerasnya serta dasar-dasar atau pengantar konsep digital.
+Didalamnya juga terdapat latihan yang bisa digunakan pembaca untuk menguji atau meningkatkan kemampuan. Buku yang ditulis oleh beliau menginspirasi saya bahwa dunia keinformatikaan itu sangat luas dan saya dapat belajar lebih banyak dan lebih seru. saya juga mengetahui tentang teknologi keinformatikaan dan komunikasi data (meskipun tidak semuanya bisa di pahami) 
+![Cuplikan layar 2024-01-01 203451](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/663f5489-8fc5-47f5-947c-f5ffdeaae0fa)
