@@ -320,7 +320,11 @@ Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode.
 ![Cuplikan layar 2024-01-01 222134](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/61a5a39b-866b-4e9a-bcd4-9d24169aadbf)
 
 
+
 # Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+![Cuplikan layar 2024-01-01 223242](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/03d38883-8829-43b8-a2b3-0becfa1ae3ae)
+![Cuplikan layar 2024-01-01 223320](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/ca54560b-61bb-4839-b73d-99334af3f83b)
+![Cuplikan layar 2024-01-01 223335](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/428dfadf-b43e-4b43-a547-55158ebd6159)
 
 # Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
