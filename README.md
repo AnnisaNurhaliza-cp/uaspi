@@ -330,6 +330,8 @@ Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode.
 ![Cuplikan layar 2024-01-01 223335](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/428dfadf-b43e-4b43-a547-55158ebd6159)
 
 # Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+![Cuplikan layar 2024-01-02 105709](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/18ed3a09-7901-4051-aca0-6d6038242db6)
+![Cuplikan layar 2024-01-02 105721](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/76f65f1e-2fc5-4d6a-ab23-87ae3b1b7cfe)
 
 # Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
