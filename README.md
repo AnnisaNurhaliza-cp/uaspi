@@ -337,6 +337,7 @@ Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode.
 
 
 # Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+![Cuplikan layar 2024-01-02 104357](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/b7fe2e21-4f17-43a2-832b-6eba0f7ac37b)
 
 
 # Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
