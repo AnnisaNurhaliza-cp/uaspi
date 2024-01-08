@@ -402,6 +402,7 @@ Dalam mengadaptasi model serverless, Google Cloud Functions memungkinkan pengemb
 
 
 # Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-pemrosesan-konten-multimedia-image-audio-menggunakan-google-colab/
 
 
 # Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
