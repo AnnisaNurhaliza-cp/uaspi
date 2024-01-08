@@ -448,6 +448,7 @@ MQTT (Message Queuing Telemetry Transport) adalah protokol komunikasi ringan yan
 
 
 # Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
 
 
 # Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
