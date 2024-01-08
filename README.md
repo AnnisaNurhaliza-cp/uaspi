@@ -338,6 +338,8 @@ Informasi server dari suatu alamat domain dapat dilacak melalui berbagai metode.
 
 # Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-penggunaan-web-hosting-dengan-untuk-halaman-html/
+
 # Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 
