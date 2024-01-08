@@ -408,20 +408,19 @@ https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-pemrosesan-konten-mult
 
 
 # Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-web-tool-ai-discriminative-image-classification/
 
 # Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-web-tool-ai-generatif/
 # Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-model-machine-learning-menggunakan-google-colab-tts-speechrecognition-dan-huggingface/
 
 # Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-data-visualization-dengan-tools/
 
 # Mencoba Data Visualization Dengan Code [v] ⭐⭐
-
-
+https://annisanurhaliza3.wordpress.com/2024/01/08/mencoba-data-visualization-dengan-code/
 # Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://huggingface.co/Annisa77
 
