@@ -274,6 +274,7 @@ Dalam bahasa pemrograman Java, Bubble Sort dapat digunakan dan memberikan bebera
 https://annisanurhaliza3.wordpress.com/2024/01/08/instalasi-database-mysql/
 
 # Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+https://annisanurhaliza3.wordpress.com/2024/01/08/eksplorasi-dan-query-database-menggunakan-database-explorer-dbeaver/
 
 # Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 ![Cuplikan layar 2024-01-01 200222](https://github.com/AnnisaNurhaliza-cp/uaspi/assets/144702677/a216cf1d-1c6c-410d-99f1-fdd9b3d0f789)
